@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Jad Zarzour
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Jad
+last_name: Zarzour
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
+  - name: George Mason University
     url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,16 +26,16 @@ bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, C
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Electric Vehicles + Infrastructre
+  - IoT devices
+  - Supply Chain
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Cybersecuirty
+      institution: George Mason University
+      year: 2026-Current
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,19 +45,15 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
+    link: mailto:jzarzour@gmu.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/jzarzour
     display:
       header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
+    link: https://scholar.google.com/citations?user=MWTt-XoAAAAJ
   - icon: cv
     icon_pack: ai
     link: files/resume/resume-simon-gravelle.pdf
@@ -67,8 +63,8 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a computational physicist specializing in soft matter and fluids at interfaces, working at the LIPhy institute in Grenoble, France. In parallel, I serve as the Scientific Secretary of Section 08 of the National Committee.
-
+I am a PhD student specializing in Cybersecurity at George Mason University. I am interested in  in Cyber-Physical/OT Systems, IoT security,  EV Chargingng Infrastructure and Standards but always look to expand my knowledge. My email is jzarzour@gmu.edu. I am looking to peer review to get more expereince so please contact me if you have any opportunities!
+<!-- 
 <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
 </a>
@@ -86,5 +82,5 @@ I am a computational physicist specializing in soft matter and fluids at interfa
 ### My primary outreach projects ##
 
   - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
+  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch -->
 
