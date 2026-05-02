@@ -1,24 +1,21 @@
 ---
-date: 2026-01-23
-publishDate: 2026-01-23
+date: 2025-12-07
+publishDate: 2025-12-07
 external_link: ""
 image:
-  caption: Molecular art gallery
+  # caption: Molecular art gallery
   focal_point: Smart
 slides: example
-summary: Large-format panels illustrate some of the research activities carried out at the laboratory.
+summary: My paper got on a Security Analysis on Commercial Smart Air Compressor was presented at ICSS 2025
 tags:
 - Outreach
-title: LIPhy's photo exhibition
+title: Paper Accepted ICSS 2025
 links:
   - icon_pack: fas
     icon: scroll
-    name: Website
-    url: 'https://liphy.univ-grenoble-alpes.fr/en/news/liphy-photo-exhibition'
-  - icon_pack: fab
-    icon: github
-    name: Source
-    url: 'https://github.com/simongravelle/gallery'
+    name: Paper
+    url: 'https://ieeexplore.ieee.org/document/11418068'
+
 type: "news"
 layout: "single"
 ---

@@ -11,13 +11,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Job
-      tag: Job
-    - name: Personal
-      tag: Personal
-    - name: Outreach
-      tag: Outreach
-  count: 3
+    # - name: Job
+    #   tag: Job
+    # - name: Personal
+    #   tag: Personal
+    # - name: Outreach
+    #   tag: Outreach
+  count: 1
   offset: 0
 design:
   columns: '2'

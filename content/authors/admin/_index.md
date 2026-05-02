@@ -22,7 +22,7 @@ organizations:
     url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: CyberSecurity in IoT, CyberPhysical Systems/OT  and EV Infrastructure
 
 # Interests to show in About widget
 interests:
@@ -56,14 +56,14 @@ social:
     link: https://scholar.google.com/citations?user=MWTt-XoAAAAJ
   - icon: cv
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: files/resume/Jad_Zarzour.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
 ### About me ##
 
-I am a PhD student specializing in Cybersecurity at George Mason University. I am interested in  in Cyber-Physical/OT Systems, IoT security,  EV Chargingng Infrastructure and Standards but always look to expand my knowledge. My email is jzarzour@gmu.edu. I am looking to peer review to get more expereince so please contact me if you have any opportunities!
+I am a PhD student specializing in Cybersecurity at George Mason University. I am interested in  in Cyber-Physical/OT Systems, IoT security,  EV Chargingng Infrastructure and Standards but always look to expand my knowledge. My email is jzarzour@gmu.edu. I am looking to peer review in journals/conferences to get more expereince so please contact me if you have any opportunities!
 <!-- 
 <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
