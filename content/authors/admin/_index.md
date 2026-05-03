@@ -71,6 +71,10 @@ I am looking to expand my professional footprint through  **peer review opportun
 
 📩 Reach out at jzarzour@gmu.edu to connect or share reviewing opportunities or maybe talk about EV Charging Infrastructure Protocols.
 
+### Working Groups :
+  - Member in SAE G-32 Cyber Physical Systems Security Committee
+  - Member in Cyber Informed Engineering Standard Working Group
+
 ### Outside Research:
   - Biking
   - Hiking

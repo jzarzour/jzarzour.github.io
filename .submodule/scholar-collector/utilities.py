@@ -221,7 +221,7 @@ def save_to_file(pub, path, folder, verbose):
     if isinstance(authors, str):
         authors = [author.strip() for author in authors.split(" and ")]
 
-    # Apply **formatting** for "Simon Gravelle"
+    # Apply **formatting** for "Jad Zarzour"
     formatted_authors = [
         f"**{author}**" if author == "Jad Zarzour" else author for author in authors
     ]
