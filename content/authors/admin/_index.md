@@ -63,7 +63,18 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a PhD student specializing in Cybersecurity at George Mason University. I am interested in  in Cyber-Physical/OT Systems, IoT security,  EV Chargingng Infrastructure and Standards but always look to expand my knowledge. My email is jzarzour@gmu.edu. I am looking to peer review in journals/conferences to get more expereince so please contact me if you have any opportunities!
+I am a PhD student at George Mason University.
+
+ My core interest are in Cyber-Physical and OT Systems, IoT security, EV Chargingng Infrastructure. My research also explores the intersection of CyberSafety, regulatory standards, and government policy.
+
+I am looking to expand my professional footprint through  **peer review opportunities in reputable journals and conferences**.
+
+📩 Reach out at jzarzour@gmu.edu to connect or share reviewing opportunities or maybe talk about EV Charging Infrastructure Protocols.
+
+### Outside Research:
+  - Biking
+  - Hiking
+  - Camping
 <!-- 
 <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">

@@ -1,5 +1,18 @@
 /* Custom css - inspired by nickballousite */
+[id="news"], 
+section#news, 
+[data-widget-id="news"] {
+  pointer-events: none !important;
+}
 
+/* Ensure the cursor doesn't look clickable */
+[id="news"] a, 
+section#news a, 
+[data-widget-id="news"] a {
+  cursor: default !important;
+  text-decoration: none !important;
+  pointer-events: none !important;
+}
 @keyframes slide-from-right {
   0% {
     transform: translateX(150%);
@@ -280,4 +293,47 @@ h2, h3 {
     }
   }
 }
+}
+
+/* 1. Kill the 'stretched link' that covers the whole card */
+[id="news"] a.stretched-link, 
+section#news a.stretched-link,
+.no-click-news a.stretched-link {
+    pointer-events: none !important;
+    display: none !important;
+}
+
+/* 2. Disable clicking on titles and images in the News section */
+[id="news"] .media-body a, 
+[id="news"] .card-text a,
+[id="news"] h3 a {
+    pointer-events: none !important;
+    cursor: default !important;
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+/* 3. Remove the hover effect (shading/lift) so it doesn't look clickable */
+[id="news"] .card-simple:hover,
+[id="news"] .media:hover {
+    transform: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+}
+
+/* Targeted fix for Publication titles */
+/* Disable the link and make the publication title bold */
+[id="publications"] .article-title a,
+[id="publications"] h3 a,
+[id="publications"] a[href*="publications"] {
+    pointer-events: none !important;
+    cursor: default !important;
+    text-decoration: none !important;
+    color: inherit !important;
+    /* This makes it bold */
+    font-weight: bold !important; 
+}
+/* Ensure the hover effect on the title doesn't trigger */
+[id="publications"] a:hover {
+    text-decoration: none !important;
 }

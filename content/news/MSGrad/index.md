@@ -3,12 +3,9 @@ date: 2025-12-18
 publishDate: 2025-12-18
 external_link: ""
 image:
-  caption: Molecular art gallery
   focal_point: Smart
 slides: example
 summary: My thesis on Secure Integration of Pneumatics in IIoT was accepted and I graduated with a MS concentetratioin in Machine Learning in Dec 2025 (Thank you Dr. Zoran Duric)
-tags:
-- Outreach
 title: Graduated from MS
 links:
   - icon_pack: fas
